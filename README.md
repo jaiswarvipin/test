@@ -1,1 +1,1 @@
-Now we had mapped with jenkins with root folder and thing are working
+Now we had mapped with Jenkins with root folder and thing are working
