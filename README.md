@@ -1,1 +1,1 @@
-Git commit okay
+Git commit
